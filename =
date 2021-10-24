@@ -1,0 +1,11 @@
+
+> @angular/cli@12.2.11 postinstall /home/jad/moodleapp/node_modules/@angular/cli
+> node ./bin/postinstall/script.js
+
++ @angular/cli@12.2.11
++ 11@0.0.1
+added 3 packages from 3 contributors and updated 1 package in 57.884s
+
+138 packages are looking for funding
+  run `npm fund` for details
+
