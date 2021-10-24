@@ -14,7 +14,7 @@
 
 // tslint:disable: variable-name
 export class CoreConfigConstants {
-    static app_id = 'com.moodlebox.moodlemobile';
+    static app_id = 'com.moodle.moodlemobile';
     static appname = 'Moodle Mobile';
     static desktopappname = 'Moodle Desktop';
     static versioncode = 3940;
@@ -120,7 +120,7 @@ export class CoreConfigConstants {
     static forceLoginLogo = false;
     static ioswebviewscheme = 'moodleappfs';
     static appstores: any = {
-        android: 'com.moodlebox.moodlemobile',
+        android: 'com.moodle.moodlemobile',
         ios: 'id633359593',
         windows: 'moodle-desktop/9p9bwvhdc8c8',
         mac: 'id1255924440',

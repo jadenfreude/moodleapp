@@ -1,5 +1,5 @@
 {
-    "app_id": "com.moodlebox.moodlemobile",
+    "app_id": "com.moodle.moodlemobile",
     "appname": "Civex Project",
     "versioncode": 3950,
     "versionname": "3.9.5",
@@ -96,7 +96,7 @@
     "forceLoginLogo": false,
     "ioswebviewscheme": "moodleappfs",
     "appstores": {
-        "android": "com.moodlebox.moodlemobile",
+        "android": "com.moodle.moodlemobile",
         "ios": "id633359593"
     }
 }
