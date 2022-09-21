@@ -82,7 +82,7 @@ $core-course-image-background: #81ecec, #74b9ff, #a29bfe, #dfe6e9, #00b894, #098
 $core-dd-question-colors: #FFFFFF, #B0C4DE, #DCDCDC, #D8BFD8, #87CEFA, #DAA520, #FFD700, #F0E68C !default;
 $core-text-hightlight-background-color: lighten($blue, 40%) !default;
 
-$core-fixed-url: false !default;
+$core-fixed-url: true !default;
 $core-dashboard-logo: false !default;
 $core-always-show-main-menu: false !default;
 $core-format-text-never-shorten: false !default;
